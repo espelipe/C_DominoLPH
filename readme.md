@@ -16,4 +16,4 @@ Projeto realizado no primeiro ano do cusro de Ciencia da Computaçção na PUC-S
 - Mateus Neves Eredia
 - Murilo Bonventi Romani Pinto
 
-[https://www.linkedin.com/in/](https://www.linkedin.com/in/joaomarcosribeirete/)
+[https://www.linkedin.com/in/joaomarcosribeirete](https://www.linkedin.com/in/joaomarcosribeirete/)
